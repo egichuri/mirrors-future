@@ -1,6 +1,6 @@
 -   id: future
     name: future
-    entry: future
+    entry: futurize
     language: python
     'types': [python]
     args: ["-i"]
